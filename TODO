@@ -1,0 +1,2 @@
+Remove simulated "digestion", i.e. only generate read from first N bases.
+Allow for generation of only single end reads.
